@@ -16,7 +16,8 @@ function App() {
         </Toolbar>
       </AppBar>
       <Box>
-      <Paper className="Main-paper"/> 
+      <Paper className="Main-paper" elevation={3}/> 
+  
       </Box>
     </div>
   );
