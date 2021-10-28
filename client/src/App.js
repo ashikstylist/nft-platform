@@ -1,7 +1,7 @@
 import './App.css';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
-import {Paper , Box} from '@mui/material';
+import {Paper , Box,Typography} from '@mui/material';
 
 function App() {
   return (
