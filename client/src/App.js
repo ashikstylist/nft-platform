@@ -7,7 +7,7 @@ import {Paper , Box, Typography} from '@mui/material';
 function App() {
   return (
     <div className="App">
-      <AppBar position="static">
+      <AppBar position="static" style={{backgroundColor:'#222'}}>
         <Toolbar>
         <Typography variant="h6" color="inherit" component="div">
           NFT
@@ -20,9 +20,9 @@ function App() {
         display: 'flex',
         '& > :not(style)': {
           m: 1,
-          width: 128,
+          width: '100%',
           height: 128,
-          backgroundColor: '#fafafa '
+          backgroundColor: '#3d5afe '
         },
       }}>
       <Paper className="Main-paper" elevation={3}/> 
