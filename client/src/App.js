@@ -13,7 +13,7 @@ function App() {
         </Toolbar>
       </AppBar>
       <Box>
-        
+      <Paper />
       </Box>
     </div>
   );
