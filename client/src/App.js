@@ -16,7 +16,15 @@ function App() {
          
         </Toolbar>
       </AppBar>
-      <Box>
+      <Box sx={{
+        display: 'flex',
+        '& > :not(style)': {
+          m: 1,
+          width: 128,
+          height: 128,
+          backgroundColor: '#fafafa '
+        },
+      }}>
       <Paper className="Main-paper" elevation={3}/> 
   
       </Box>
