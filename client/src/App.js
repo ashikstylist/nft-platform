@@ -8,6 +8,9 @@ function App() {
     <div className="App">
       <AppBar position="static">
         <Toolbar>
+        <Typography variant="h6" color="inherit" component="div">
+          NFT
+      </Typography>
 
          
         </Toolbar>
