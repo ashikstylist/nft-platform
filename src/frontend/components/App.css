@@ -1,3 +1,13 @@
+body{
+  background-color: #08192b;
+  color: #fc68b6;
+}
+
+.card-img-top{
+  height: 20rem;
+  object-fit: cover;
+}
+
 .App {
   text-align: center;
 }
