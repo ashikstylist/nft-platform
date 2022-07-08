@@ -16,7 +16,7 @@ Launch Frontend
 $ npm run start
 
 ## Screenshots
-![NFT Upload](https://ibb.co/B2Mdj1d)
-![NFT Listed](https://ibb.co/wrJswCt)
-![Mobile View](https://ibb.co/tMYqk7K)
-![Tab View](https://ibb.co/6Z1X6c2)
+![NFT Upload](https://i.ibb.co/k2Ck0dk/5.png)
+![NFT Listed](https://i.ibb.co/qF05W96/Homepage-Filled-with-NFT.png)
+![Mobile View](https://i.ibb.co/BVTydX3/Mobile.png)
+![Tab View](https://i.ibb.co/qnWJbLz/Tab-1.png)
